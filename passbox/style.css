@@ -1,0 +1,26 @@
+.style1{
+ text-align: center;
+}
+.layout{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+}
+body{
+    background-color:  #999999;
+}
+.style2{
+    display:flex;
+    justify-content: center;
+    
+}
+.style3{
+    border-radius: 46px;
+}
+.style4{
+    text-shadow: 2px 2px 2px black;
+}
+.layout1{
+    margin-top: 150px;
+}
